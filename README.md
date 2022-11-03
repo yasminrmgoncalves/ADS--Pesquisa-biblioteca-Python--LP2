@@ -13,5 +13,5 @@
 >  - O Numpy fornece essas funcionalidades comparáveis ao MATLAB. Ambos permitem que os usuários acelerem as operações.
 
 ##### Como instalar o numpy?
-> Não é necessário instalar a biblioteca já que ele é uma biblioteca built in. Porém, caso ele não esteja instalado é possível instala-lo através do pip com o seguinte comando:
+> É possível instala-lo através do pip com o seguinte comando:
 > ```pip install numpy```
